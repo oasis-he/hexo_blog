@@ -69,3 +69,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
+  repo: https://github.com/oasis-he/hexo_blog.git
+  branch: 
+  message: 
